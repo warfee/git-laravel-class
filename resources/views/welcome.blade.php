@@ -87,6 +87,8 @@
                 <div class="links">
                    <a href="">ini warfee</a>
                    <a href="">Nadhirah Nizam</a>
+                   <a href="">Ayu</a>
+                   <a href="">mika</a>
                 </div>
             </div>
         </div>
